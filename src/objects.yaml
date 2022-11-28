@@ -212,7 +212,7 @@ label_alias:
   squirrel:
     en: [ "squirrel" ]
   hedgehog_surrounded_by_flowers:
-    en: ["hedgehog surrounded by flowers"]
+    en: [ "hedgehog surrounded by flowers" ]
   rough_sea:
     en: [ "rough sea" ]
   banana_on_a_plate:
@@ -223,3 +223,6 @@ label_alias:
     en: [ "lemon on a tree" ] 
   apple:
     en: [ "apple" ]    
+  grapes_in_the_basket:
+    en: [ "grapes in the basket","Please click each image containing grapes in a bаskеt" ]
+    
