@@ -220,4 +220,6 @@ label_alias:
   pineapple_on_a_plate:
     en: [ "pineapple on a plate" ]  
   lemon_on_a_tree:
-    en: [ "lemon on a tree" ]  
+    en: [ "lemon on a tree" ] 
+  apple:
+    en: [ "apple" ]    
