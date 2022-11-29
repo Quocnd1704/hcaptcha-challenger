@@ -225,4 +225,5 @@ label_alias:
     en: [ "apple" ]    
   grapes_in_the_basket:
     en: [ "grapes in the basket","Please click each image containing grapes in a bаskеt" ]
-    
+  squirrel_eating_a_nut:
+    en: [ "squirrel eating a nut" ]
