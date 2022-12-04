@@ -235,4 +235,5 @@ label_alias:
     en: [ "Please click each image containing grapes" ]
   pineapple_in_a_baskеt:
     en: [ "pineapple in a baskеt" ]
-
+  apple_in_a_baskеt:
+    en: [ "apple in a baskеt" ]
