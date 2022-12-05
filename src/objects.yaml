@@ -229,6 +229,8 @@ label_alias:
     en: [ "strawberry on tree" ]
   strawberry_on_a_plate:
     en: [ "strawberry on a plate" ]
+  strawberries:
+    en: [ "Please click each image containing strawberries","strawberries" ]   
   grapes:
     en: [ "Please click each image containing grapes","grapes" ]
   pineapple_in_a_baskеt:
