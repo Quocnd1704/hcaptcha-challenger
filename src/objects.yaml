@@ -206,7 +206,7 @@ label_alias:
   squirrel_on_a_tree:
     en: [ "squirrel on a tree" ]
   crab:
-    en: [ "crab", "carb on rocks" ]
+    en: [ "crab" ]
   toy_penguin:
     en: [ "toy penguin" ]
   squirrel:
@@ -237,3 +237,5 @@ label_alias:
     en: [ "pineapple in a baskеt","pineapple in a baskеt" ]
   apple_in_a_baskеt:
     en: [ "apple in a baskеt" ]
+  carb_on_rocks:
+    en: [ "carb on rocks" ]
