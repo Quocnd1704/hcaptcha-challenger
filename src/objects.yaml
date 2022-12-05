@@ -128,7 +128,7 @@ label_alias:
   belt:
     en: [ "item that a person normally wears on their pants" ]
   dangerous_sea:
-    en: [ "dangerous sea", "rough sea" ]
+    en: [ "dangerous sea" ]
   calm_sea:
     en: [ "calm sea" ]
   hot_food:
@@ -243,3 +243,5 @@ label_alias:
     en: [ "apple in a baskеt" ]
   carb_on_rocks:
     en: [ "carb on rocks" ]
+  rough_sea:
+    en: [ "rough sea" ]
