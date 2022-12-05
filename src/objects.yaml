@@ -216,9 +216,7 @@ label_alias:
   rough_sea:
     en: [ "rough sea","dangerous ѕeа" ]
   banana_on_a_plate:
-    en: [ "banana on a plate" ]
-  pineapple_on_a_plate:
-    en: [ "pineapple on a plate" ]  
+    en: [ "banana on a plate" ]  
   lemon_on_a_tree:
     en: [ "lemon on a tree" ] 
   apple:
@@ -234,7 +232,11 @@ label_alias:
   grapes:
     en: [ "Please click each image containing grapes","grapes" ]
   pineapple_in_a_baskеt:
-    en: [ "pineapple in a baskеt","pineapple in a baskеt" ]
+    en: [ "pineapple in a baskеt" ]
+  pineapple_on_a_plate:
+    en: [ "pineapple on a plate" ]    
+  pineapple:
+    en: [ "pineapple" ]    
   apple_in_a_baskеt:
     en: [ "apple in a baskеt" ]
   carb_on_rocks:
