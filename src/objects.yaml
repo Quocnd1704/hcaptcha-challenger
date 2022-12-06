@@ -220,7 +220,11 @@ label_alias:
   lemon_on_a_tree:
     en: [ "lemon on a tree" ] 
   apple:
-    en: [ "apple" ]    
+    en: [ "apple" ] 
+  apple_on_a_plate:
+    en: [ "apple on a plate" ]    
+  apple_in_a_baskеt:
+    en: [ "apple in a baskеt" ]  
   grapes_in_the_basket:
     en: [ "grapes in the basket","Please click each image containing grapes in a bаskеt" ]
   squirrel_eating_a_nut:
@@ -238,9 +242,7 @@ label_alias:
   pineapple_on_a_plate:
     en: [ "pineapple on a plate" ]    
   pineapple:
-    en: [ "pineapple" ]    
-  apple_in_a_baskеt:
-    en: [ "apple in a baskеt" ]
+    en: [ "pineapple" ]  
   carb_on_rocks:
     en: [ "carb on rocks" ]
   rough_sea:
