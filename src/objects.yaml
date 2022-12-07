@@ -359,4 +359,7 @@ label_alias:
     en: ["grapes","Please click each image containing grapes"]
   strawberries:
     zh: ["草莓","请点击每张包含草莓的图片"]
-    en: ["strawberries","Please click each image containing strawberries"]    
+    en: ["strawberries","Please click each image containing strawberries"]
+  butterfly:
+    zh: ["蝴蝶"]
+    en: ["butterfly"]    
