@@ -362,4 +362,7 @@ label_alias:
     en: ["strawberries","Please click each image containing strawberries"]
   butterfly:
     zh: ["蝴蝶"]
-    en: ["butterfly"]    
+    en: ["butterfly"] 
+  eough_sea:
+    zh: ["惊涛骇浪"]
+    en: ["rough sea"]    
