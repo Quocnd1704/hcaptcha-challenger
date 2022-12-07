@@ -365,4 +365,7 @@ label_alias:
     en: ["butterfly"] 
   reough_sea:
     zh: ["惊涛骇浪"]
-    en: ["rough sea"]    
+    en: ["rough sea"] 
+  rabbit_on_a_bad:
+    zh: ["兔子坏了"]
+    en: ["rabbit on a bad"]     
