@@ -22,8 +22,8 @@ label_alias:
     zh: [ "由云制成的大象" ]
     en: [ "elephant made of clouds" ]
   parrot:
-    zh: [ "鹦鹉" ]
-    en: [ "parrot" ]
+    zh: [ "鹦鹉","请选择所有包含鹦鹉的图片" ]
+    en: [ "parrot","Please select all images containing a parrot" ]
 
   lion_with_mane_on_its_neck:
     zh: [ "一只脖子上有鬃毛的狮子", "雄狮" ]
