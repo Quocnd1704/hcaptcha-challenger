@@ -372,3 +372,6 @@ label_alias:
   daisy:
     zh: ["雏菊"]
     en: ["daisy"]
+  tulip:
+    zh: ["郁金香"]
+    en: ["tulip"]
