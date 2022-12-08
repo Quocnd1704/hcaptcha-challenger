@@ -369,3 +369,6 @@ label_alias:
   rabbit_on_a_bad:
     zh: ["兔子坏了"]
     en: ["rabbit on a bad"]     
+  daisy:
+    zh: ["雏菊"]
+    en: ["daisy"]
