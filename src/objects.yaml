@@ -18,9 +18,6 @@ label_alias:
   living_room:
     zh: [ "客厅" ]
     en: [ "living room" ]
-  conference_room:
-    zh: [ "会议室" ]
-    en: [ "conference room" ]
   elephant_made_of_clouds:
     zh: [ "由云制成的大象" ]
     en: [ "elephant made of clouds" ]
@@ -375,3 +372,6 @@ label_alias:
   tulip:
     zh: ["郁金香"]
     en: ["tulip"]
+  conference_room:
+    zh: ["会议室","请选择所有包含会议室的图片"]
+    en: ["conference room","Please select all images containing a conference room"]  
