@@ -374,4 +374,10 @@ label_alias:
     en: ["tulip"]
   conference_room:
     zh: ["会议室","请选择所有包含会议室的图片"]
-    en: ["conference room","Please select all images containing a conference room"]  
+    en: ["conference room","Please select all images containing a conference room"] 
+  giraffe:
+    zh: ["长颈鹿"]
+    en: ["giraffe"]
+  crab_on_grass:
+    zh: ["草地上的螃蟹"]
+    en: ["crab on grass"]    
