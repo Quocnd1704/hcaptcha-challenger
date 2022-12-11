@@ -336,6 +336,9 @@ label_alias:
   apple_on_a_plate:
     zh: ["盘子里的苹果"]
     en: ["apple on a plate"]
+  apple_on_a_tree:
+    zh: ["树上的苹果"]
+    en: ["apple on a tree"]    
   banana_on_a_plate:
     zh: ["盘子里的香蕉"]
     en: ["banana on a plate"]
