@@ -386,4 +386,7 @@ label_alias:
     en: ["giraffe"]
   crab_on_grass:
     zh: ["草地上的螃蟹"]
-    en: ["crab on grass"]    
+    en: ["crab on grass"]
+  hedgehog_in_water:
+    zh: ["刺猬在水中"]
+    en: ["hedgehog in water"]  
