@@ -18,15 +18,12 @@ label_alias:
   living_room:
     zh: [ "客厅" ]
     en: [ "living room" ]
-  conference_room:
-    zh: [ "会议室" ]
-    en: [ "conference room" ]
   elephant_made_of_clouds:
     zh: [ "由云制成的大象" ]
     en: [ "elephant made of clouds" ]
   parrot:
-    zh: [ "鹦鹉" ]
-    en: [ "parrot" ]
+    zh: [ "鹦鹉","请选择所有包含鹦鹉的图片" ]
+    en: [ "parrot","Please select all images containing a parrot" ]
 
   lion_with_mane_on_its_neck:
     zh: [ "一只脖子上有鬃毛的狮子", "雄狮" ]
@@ -267,7 +264,7 @@ label_alias:
     en: [ "chocolate cake" ]
   oranges_in_a_basket:
     zh: [ "篮子中的橙子","篮子中橙子" ]
-    en: [ "oranges in a basket", "Please click each image containing oranges in a basket" ]
+    en: [ "oranges in a basket", "lease click each image containing oranges in a basket" ]
   horse_mask:
     zh: [ "一匹马" ]
     en: [ "horse" ]
@@ -276,7 +273,7 @@ label_alias:
     en: [ "lion" ]
   lemons_in_a_basket:
     zh: [ "篮子中柠檬","篮子中的柠檬" ]
-    en: [ "lemons in a basket","Please click each image containing lemons in a basket" ]
+    en: [ "lemons in a basket","lease click each image containing lemons in a basket" ]
   lemon:
     zh: [ "柠檬" ]
     en: [ "lemon" ]
@@ -331,23 +328,65 @@ label_alias:
     zh: [ "松鼠" ]
     en: [ "squirrel" ]
   hedgehog_surrounded_by_flowers:
-    zh: [ "被鲜花包围的刺猬" ]
-    en: [ "hedgehog surrounded by flowers" ]
-  butterfly:
-    zh: [ "蝴蝶" ]
-    en: [ "butterfly" ]
+    zh: ["被鲜花包围的刺猬"]
+    en: ["hedgehog surrounded by flowers"]
+  apple_in_a_basket:
+    zh: ["篮子里的苹果"]
+    en: ["apple in a basket"]
+  apple_on_a_plate:
+    zh: ["盘子里的苹果"]
+    en: ["apple on a plate"]
   apple_on_a_tree:
-    zh: [ "树上苹果" ]
-    en: [ "apple on a tree" ]
-  strawberry_in_a_basket:
-    zh: [ "篮子里的草莓" ]
-    en: [ "strawberry in a basket" ]
-  daisy:
-    zh: [ "雏菊" ]
-    en: [ "daisy" ]
-  hedgehog_in_water:
-    zh: [ "水中刺猬" ]
-    en: [ "hedgehog in water" ]
+    zh: ["树上的苹果"]
+    en: ["apple on a tree"]    
+  banana_on_a_plate:
+    zh: ["盘子里的香蕉"]
+    en: ["banana on a plate"]
+  crab_on_rocks:
+    zh: ["岩石上的螃蟹"]
+    en: ["crab on rocks"] 
   pineapple:
-    zh: [ "菠萝" ]
-    en: [ "pineapple" ]
+    zh: ["菠萝"]
+    en: ["pineapple"]
+  pineapple_in_a_basket:
+    zh: ["篮子里的菠萝"]
+    en: ["pineapple in a basket"]
+  pineapple_on_a_plate:
+    zh: ["盘子里的菠萝"]
+    en: ["pineapple on a plate"]
+  grapes:
+    zh: ["葡萄","请点击每个包含葡萄的图片"]
+    en: ["grapes","Please click each image containing grapes"]
+  strawberry_in_a_basket:
+    zh: ["篮子里的草莓"]
+    en: ["strawberry in a basket"]  
+  strawberries:
+    zh: ["草莓","请点击每张包含草莓的图片"]
+    en: ["strawberries","Please click each image containing strawberries"]
+  butterfly:
+    zh: ["蝴蝶"]
+    en: ["butterfly"] 
+  rough_sea:
+    zh: ["惊涛骇浪"]
+    en: ["rough sea"] 
+  rabbit_on_a_bad:
+    zh: ["兔子坏了"]
+    en: ["rabbit on a bad"]     
+  daisy:
+    zh: ["雏菊"]
+    en: ["daisy"]
+  tulip:
+    zh: ["郁金香"]
+    en: ["tulip"]
+  conference_room:
+    zh: ["会议室","请选择所有包含会议室的图片"]
+    en: ["conference room","Please select all images containing a conference room"] 
+  giraffe:
+    zh: ["长颈鹿"]
+    en: ["giraffe"]
+  crab_on_grass:
+    zh: ["草地上的螃蟹"]
+    en: ["crab on grass"]
+  hedgehog_in_water:
+    zh: ["刺猬在水中"]
+    en: ["hedgehog in water"]  
