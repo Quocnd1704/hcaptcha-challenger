@@ -390,3 +390,6 @@ label_alias:
   hedgehog_in_water:
     zh: ["刺猬在水中"]
     en: ["hedgehog in water"]  
+  sunflower:
+    zh: ["向日葵"]
+    en: ["sunflower"]
