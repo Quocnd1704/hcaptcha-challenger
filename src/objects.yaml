@@ -396,3 +396,6 @@ label_alias:
   rose:
     zh: ["玫瑰"]
     en: ["rose"]
+  panda_in_a_living_room:
+    zh: ["客厅里的熊猫"]
+    en: ["panda in a living room"]
