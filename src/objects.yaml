@@ -402,3 +402,6 @@ label_alias:
   sea_otter:
     zh: ["海獭"]
     en: ["sea otter"]
+  hedgehog_on_rocks:
+    zh: ["刺猬在岩石上"]
+    en: ["hedgehog on rocks"]
