@@ -399,3 +399,6 @@ label_alias:
   panda_in_a_living_room:
     zh: ["客厅里的熊猫"]
     en: ["panda in a living room"]
+  sea_otter:
+    zh: ["海獭"]
+    en: ["sea otter"]
