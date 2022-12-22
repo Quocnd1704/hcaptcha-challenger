@@ -393,3 +393,6 @@ label_alias:
   sunflower:
     zh: ["向日葵"]
     en: ["sunflower"]
+  rose:
+    zh: ["玫瑰"]
+    en: ["rose"]
