@@ -408,3 +408,6 @@ label_alias:
   piano:
     zh: ["钢琴"]
     en: ["piano"]
+  cymbal:
+    zh: ["铙钹"]
+    en: ["cymbal"]
