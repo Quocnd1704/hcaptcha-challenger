@@ -411,3 +411,6 @@ label_alias:
   cymbal:
     zh: ["铙钹"]
     en: ["cymbal"]
+  roses_in_a_garden:
+    zh: ["花园里的玫瑰","请单击每个包含花园中红玫瑰的图像"]
+    en: ["roses in a garden","Please click each image containing red roses in a garden"]
