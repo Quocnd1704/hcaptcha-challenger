@@ -420,3 +420,12 @@ label_alias:
   panda_in_a_garden:
     zh: [ "花园中熊猫" ]
     en: [ "panda in a garden" ]
+  panda_in_a_forest:
+    zh: [ "森林中熊猫", "森林中的熊猫" ]
+    en: [ "panda in a forest" ]
+  sunflowers_in_a_field:
+    zh: [ "田野中向日葵" ]
+    en: [ "sunflowers in a field" ]
+  mountain:
+    zh: [ "山" ]
+    en: [ "mountain" ]  
