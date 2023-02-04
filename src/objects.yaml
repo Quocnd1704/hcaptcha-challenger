@@ -429,3 +429,6 @@ label_alias:
   mountain:
     zh: [ "山" ]
     en: [ "mountain" ]  
+  piano:
+    zh: [ "钢琴" ]
+    en: [ "piano" ]
