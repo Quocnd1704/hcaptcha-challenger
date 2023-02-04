@@ -417,3 +417,6 @@ label_alias:
   desert:
     zh: ["沙漠"]
     en: ["desert"]
+  panda_in_a_garden:
+    zh: [ "花园中熊猫" ]
+    en: [ "panda in a garden" ]
