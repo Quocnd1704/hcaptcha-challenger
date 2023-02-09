@@ -428,7 +428,19 @@ label_alias:
     en: [ "sunflowers in a field" ]
   mountain:
     zh: [ "山" ]
-    en: [ "mountain" ]  
+    en: [ "mountain" ] 
+  daisy_in_a_pot:
+    zh: [ "盆中雏菊" ]
+    en: [ "daisy in a pot" ]    
   piano:
     zh: [ "钢琴" ]
     en: [ "piano" ]
+  violin:
+    zh: [ "小提琴" ]
+    en: [ "violin" ]
+  beach:
+    zh: [ "海滩" ]
+    en: [ "beach" ]
+  trumpet:
+    zh: [ "喇叭" ]
+    en: [ "trumpet" ]
