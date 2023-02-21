@@ -462,3 +462,12 @@ label_alias:
   ocean:
     zh: [ "海洋" ]
     en: [ "ocean" ]
+  hand_watches:
+    zh: [ "吉他" ]
+    en: [ "hand watches" ]
+  hockey_match:
+    zh: [ "水中的熊猫" ]
+    en: [ "hockey match" ]
+  tractor:
+    zh: [ "海洋" ]
+    en: [ "tractor" ]
