@@ -463,10 +463,13 @@ label_alias:
     zh: [ "海洋" ]
     en: [ "ocean" ]
   hand_watches:
-    zh: [ "吉他" ]
+    zh: [ "手表" ]
     en: [ "hand watches" ]
+  bear_in_the_water:
+    zh: [ "熊在水里" ]
+    en: [ "bear in the water" ]
   hockey_match:
-    zh: [ "水中的熊猫" ]
+    zh: [ "曲棍球比赛" ]
     en: [ "hockey match" ]
   tractor:
     zh: [ "海洋" ]
