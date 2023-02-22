@@ -474,3 +474,9 @@ label_alias:
   tractor:
     zh: [ "海洋" ]
     en: [ "tractor" ]
+  hockey_match:
+    zh: [ "曲棍球比赛" ]
+    en: [ "hockey match" ]
+  soccer_ball:
+    zh: [ "足球" ]
+    en: [ "soccer ball" ]
