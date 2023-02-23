@@ -471,9 +471,15 @@ label_alias:
   hockey_match:
     zh: [ "曲棍球比赛" ]
     en: [ "hockey match" ]
-  tractor:
-    zh: [ "海洋" ]
-    en: [ "tractor" ]
   soccer_ball:
     zh: [ "足球" ]
     en: [ "soccer ball" ]
+  hamster:
+    zh: [ "仓鼠" ]
+    en: [ "hamster" ]
+  tractor:
+    zh: [ "拖拉机" ]
+    en: [ "tractor" ]
+  panda_wearing_glasses:
+    zh: [ "戴眼镜的熊猫" ]
+    en: [ "panda wearing glasses" ]
