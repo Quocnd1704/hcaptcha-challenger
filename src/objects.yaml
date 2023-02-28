@@ -464,7 +464,7 @@ label_alias:
     en: [ "ocean" ]
   hand_watches:
     zh: [ "手表" ]
-    en: [ "hand watches" ]
+    en: [ "hand watches" ,"Please click each image containing hand watches"]
   bear_in_the_water:
     zh: [ "熊在水里" ]
     en: [ "bear in the water" ]
@@ -488,4 +488,4 @@ label_alias:
     en: [ "cow in its natural environment" ]
   someone_playing_football:
     zh: [ "有人踢足球" ]
-    en: [ "someone playing football" ]
+    en: [ "someone playing football", "Please click each image containing someone playing football" ]
