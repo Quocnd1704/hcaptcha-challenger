@@ -495,3 +495,6 @@ label_alias:
   hallway:
     zh: [ "门厅" ]
     en: [ "hallway" ]
+  someone_playing_soccer:
+    zh: [ "有人踢足球" ]
+    en: [ "someone playing soccer", "Please click each image containing someone playing soccer" ]
