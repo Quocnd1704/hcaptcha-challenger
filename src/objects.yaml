@@ -498,3 +498,15 @@ label_alias:
   someone_playing_soccer:
     zh: [ "有人踢足球" ]
     en: [ "someone playing soccer", "Please click each image containing someone playing soccer" ]
+  car_tire:
+    zh: [ "汽车轮胎" ]
+    en: [ "car tire" ]
+  dog_wearing_sunglasses:
+    zh: [ "戴墨镜的狗" ]
+    en: [ "dog wearing sunglasses" ]
+  cat:
+    zh: [ "猫" ]
+    en: [ "cat" ]    
+  very_fast_car:
+    zh: [ "非常快的车" ]
+    en: [ "very fast car" ]      
