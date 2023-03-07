@@ -485,7 +485,7 @@ label_alias:
     en: [ "panda wearing glasses" ]
   cow_in_its_natural_environment:
     zh: [ "母牛在其自然环境中" ]
-    en: [ "cow in its natural environment" ]
+    en: [ "cow in its natural environment","Please click each image containing a cow in its natural environment" ]
   someone_playing_football:
     zh: [ "有人踢足球" ]
     en: [ "someone playing football", "Please click each image containing someone playing football" ]
@@ -503,7 +503,7 @@ label_alias:
     en: [ "car tire" ]
   dog_wearing_sunglasses:
     zh: [ "戴墨镜的狗" ]
-    en: [ "dog wearing sunglasses" ]
+    en: [ "dog wearing sunglasses","Please click each image containing a dog wearing sunglasses" ]
   cat:
     zh: [ "猫" ]
     en: [ "cat" ]    
