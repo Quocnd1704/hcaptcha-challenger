@@ -510,6 +510,6 @@ label_alias:
   very_fast_car:
     zh: [ "非常快的车" ]
     en: [ "very fast car" ]      
-  dog_t-shirt:
+  dog_t_shirt:
     zh: [ "狗T恤" ]
     en: [ "dog t-shirt" ] 
