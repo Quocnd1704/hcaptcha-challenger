@@ -519,3 +519,6 @@ label_alias:
   bowling_ball:
     zh: [ "保龄球" ]
     en: [ "bowling ball" ]
+  alarm_clock:
+    zh: [ "闹钟" ]
+    en: [ "alarm clock" ]
