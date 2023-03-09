@@ -514,5 +514,8 @@ label_alias:
     zh: [ "狗T恤" ]
     en: [ "dog t-shirt" ] 
   bunny:
-    zh: [ "猫" ]
+    zh: [ "兔子" ]
     en: [ "bunny" ]
+  bowling_ball:
+    zh: [ "保龄球" ]
+    en: [ "bowling ball" ]
