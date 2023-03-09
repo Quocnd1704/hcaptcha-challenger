@@ -525,3 +525,6 @@ label_alias:
   basketball:
     zh: [ "篮球" ]
     en: [ "basketball" ]
+  bird_sitting_in_a_tree:
+    zh: [ "坐在树上的鸟" ]
+    en: [ "bird sitting in a tree" ]
