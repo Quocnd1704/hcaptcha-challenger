@@ -513,3 +513,6 @@ label_alias:
   dog_t_shirt:
     zh: [ "狗T恤" ]
     en: [ "dog t-shirt" ] 
+  bunny:
+    zh: [ "猫" ]
+    en: [ "bunny" ]
