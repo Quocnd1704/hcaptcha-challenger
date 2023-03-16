@@ -528,3 +528,9 @@ label_alias:
   bird_sitting_in_a_tree:
     zh: [ "坐在树上的鸟" ]
     en: [ "bird sitting in a tree" ]
+  sunny_sky:
+    zh: [ "晴朗的天空" ]
+    en: [ "sunny sky" ]
+  egg_on_a_plate:
+    zh: [ "晴朗的天空" ]
+    en: [ "egg on a plate" ]    
