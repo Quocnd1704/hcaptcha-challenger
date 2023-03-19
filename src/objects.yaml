@@ -534,3 +534,6 @@ label_alias:
   egg_on_a_plate:
     zh: [ "晴朗的天空" ]
     en: [ "egg on a plate" ]    
+  steering_wheel:
+    zh: [ "方向盘" ]
+    en: [ "steering wheel" ]
