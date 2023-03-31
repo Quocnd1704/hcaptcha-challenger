@@ -549,3 +549,6 @@ label_alias:
   cat_t_shirt:
     zh: [ "猫T恤" ]
     en: [ "cat t-shirt" ]
+  hot_dog:
+    zh: [ "热狗" ]
+    en: [ "hot_dog" ]
