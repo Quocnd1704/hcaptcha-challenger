@@ -552,3 +552,9 @@ label_alias:
   hot_dog:
     zh: [ "热狗" ]
     en: [ "hot dog" ]
+  cat_wearing_a_pirate_hat:
+    zh: [ "戴着海盗帽的猫" ]
+    en: [ "cat wearing a pirate hat" ]
+  rugby_ball:
+    zh: [ "橄榄球" ]
+    en: [ "rugby ball" ]    
