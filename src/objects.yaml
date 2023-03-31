@@ -546,3 +546,6 @@ label_alias:
   planet:
     zh: [ "行星" ]
     en: [ "planet" ]
+  cat_t_shirt:
+    zh: [ "猫T恤" ]
+    en: [ "cat t-shirt" ]
