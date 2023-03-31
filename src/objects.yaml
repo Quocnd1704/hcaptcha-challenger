@@ -558,3 +558,6 @@ label_alias:
   rugby_ball:
     zh: [ "橄榄球" ]
     en: [ "rugby ball" ]    
+  tennis_ball:
+    zh: [ "网球" ]
+    en: [ "tennis ball" ]
