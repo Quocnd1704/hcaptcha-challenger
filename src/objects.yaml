@@ -561,3 +561,6 @@ label_alias:
   tennis_ball:
     zh: [ "网球" ]
     en: [ "tennis ball" ]
+  croissant:
+    zh: [ "羊角面包" ]
+    en: [ "croissant" ]
