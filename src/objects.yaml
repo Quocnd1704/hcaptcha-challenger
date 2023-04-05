@@ -570,3 +570,6 @@ label_alias:
   onions:
     zh: [ "洋葱" ]
     en: [ "onions", "Please click each image containing onions" ]
+  car:
+    zh: [ "车" ]
+    en: [ "car" ]
