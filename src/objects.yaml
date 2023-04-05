@@ -567,3 +567,6 @@ label_alias:
   baseball_match:
     zh: [ "棒球比赛" ]
     en: [ "baseball match" ]
+  onions:
+    zh: [ "洋葱" ]
+    en: [ "onions", "Please click each image containing onions" ]
