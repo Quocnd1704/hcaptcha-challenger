@@ -573,3 +573,6 @@ label_alias:
   car:
     zh: [ "车" ]
     en: [ "car" ]
+  burger:
+    zh: [ "汉堡包" ]
+    en: [ "burger" ]
