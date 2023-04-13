@@ -556,17 +556,20 @@ label_alias:
     zh: [ "相机" ]
     en: [ "donut" ]  
   headphones:
-    zh: [ "壶" ]
+    zh: [ "耳机" ]
     en: [ "headphones" ]
   asparagus:
-    zh: [ "壶" ]
+    zh: [ "冰盒" ]
     en: [ "asparagus" ]
   refrigerator:
-    zh: [ "壶" ]
+    zh: [ "冰箱" ]
     en: [ "refrigerator" ]
   potatoes:
-    zh: [ "壶" ]
+    zh: [ "土豆" ]
     en: [ "potatoes","Please click each image containing potatoes" ]
   vinyl:
-    zh: [ "壶" ]
+    zh: [ "乙烯基塑料" ]
     en: [ "vinyl" ]    
+  cabbage:
+    zh: [ "卷心菜" ]
+    en: [ "cabbage" ] 
