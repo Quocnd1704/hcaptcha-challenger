@@ -552,3 +552,9 @@ label_alias:
   kettle:
     zh: [ "壶" ]
     en: [ "kettle" ] 
+  donut:
+    zh: [ "相机" ]
+    en: [ "donut" ]  
+  headphones:
+    zh: [ "壶" ]
+    en: [ "headphones" ]
