@@ -564,3 +564,9 @@ label_alias:
   refrigerator:
     zh: [ "壶" ]
     en: [ "refrigerator" ]
+  potatoes:
+    zh: [ "壶" ]
+    en: [ "potatoes","Please click each image containing potatoes" ]
+  vinyl:
+    zh: [ "壶" ]
+    en: [ "vinyl" ]    
