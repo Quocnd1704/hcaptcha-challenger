@@ -573,3 +573,6 @@ label_alias:
   cabbage:
     zh: [ "卷心菜" ]
     en: [ "cabbage" ] 
+  telescope:
+    zh: [ "望远镜" ]
+    en: [ "telescope" ] 
