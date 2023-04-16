@@ -576,3 +576,6 @@ label_alias:
   telescope:
     zh: [ "望远镜" ]
     en: [ "telescope" ] 
+  electricity_pylon:
+    zh: [ "望远镜" ]
+    en: [ "electricity pylon" ] 
