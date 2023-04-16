@@ -582,3 +582,6 @@ label_alias:
   freeway:
     zh: [ "望远镜" ]
     en: [ "freeway" ]
+  residential_house:
+    zh: [ "望远镜" ]
+    en: [ "residential house" ]
