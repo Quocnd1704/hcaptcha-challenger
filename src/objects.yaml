@@ -591,3 +591,6 @@ label_alias:
   factory_with_chimney:
     zh: [ "望远镜" ]
     en: [ "factory with chimney" ]
+  ladder:
+    zh: [ "望远镜" ]
+    en: [ "ladder" ]
