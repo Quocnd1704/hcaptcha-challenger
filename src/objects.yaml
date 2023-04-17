@@ -588,3 +588,6 @@ label_alias:
   roast_chicken:
     zh: [ "望远镜" ]
     en: [ "roast chicken" ]
+  factory_with_chimney:
+    zh: [ "望远镜" ]
+    en: [ "factory with chimney" ]
