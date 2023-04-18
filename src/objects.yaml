@@ -594,3 +594,6 @@ label_alias:
   ladder:
     zh: [ "望远镜" ]
     en: [ "ladder" ]
+  lighthouse:
+    zh: [ "望远镜" ]
+    en: [ "lighthouse" ]
