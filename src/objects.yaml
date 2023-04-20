@@ -597,3 +597,6 @@ label_alias:
   lighthouse:
     zh: [ "望远镜" ]
     en: [ "lighthouse" ]
+  microwave:
+    zh: [ "望远镜" ]
+    en: [ "microwave" ]
