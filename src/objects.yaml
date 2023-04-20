@@ -600,3 +600,6 @@ label_alias:
   microwave:
     zh: [ "望远镜" ]
     en: [ "microwave" ]
+  popcorn:
+    zh: [ "望远镜" ]
+    en: [ "popcorn" ,"Please click each image containing popcorn" ]
