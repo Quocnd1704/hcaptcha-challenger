@@ -605,10 +605,10 @@ label_alias:
     en: [ "popcorn" ,"Please click each image containing popcorn" ]
   electric_scooter:
     zh: [ "电动滑板车" ]
-    en: [ "electric scooter" ]
+    en: [ "electric scooter","Please click each image containing an electric scooter" ]
   hummingbird:
     zh: [ "蜂鸟" ]
     en: [ "hummingbird" ]
   treadmill:
     zh: [ "跑步机" ]
-    en: [ "treadmill" ]
+    en: [ "treadmill","Please click each image containing a treadmill" ]
