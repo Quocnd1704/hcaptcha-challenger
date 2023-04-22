@@ -612,3 +612,6 @@ label_alias:
   treadmill:
     zh: [ "跑步机" ]
     en: [ "treadmill","Please click each image containing a treadmill" ]
+  smartphone:
+    zh: [ "蜂鸟" ]
+    en: [ "smartphone" ]
