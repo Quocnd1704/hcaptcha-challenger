@@ -615,3 +615,6 @@ label_alias:
   smartphone:
     zh: [ "蜂鸟" ]
     en: [ "smartphone" ]
+  lamp:
+    zh: [ "蜂鸟" ]
+    en: [ "lamp" ]
