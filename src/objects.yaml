@@ -618,3 +618,6 @@ label_alias:
   lamp:
     zh: [ "蜂鸟" ]
     en: [ "lamp" ]
+  console_controller:
+    zh: [ "蜂鸟" ]
+    en: [ "console controller" ]
