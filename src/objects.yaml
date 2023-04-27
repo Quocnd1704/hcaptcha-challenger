@@ -627,3 +627,6 @@ label_alias:
   bicycle:
     zh: [ "蜂鸟" ]
     en: [ "bicycle" ]
+  dart_board:
+    zh: [ "蜂鸟" ]
+    en: [ "dart board" ]
