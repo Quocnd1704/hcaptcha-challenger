@@ -621,6 +621,6 @@ label_alias:
   console_controller:
     zh: [ "蜂鸟" ]
     en: [ "console controller" ]
-drone:
+  drone:
     zh: [ "无人机" ]
     en: [ "drone","Please click each image containing a drone"  ]
