@@ -636,3 +636,6 @@ label_alias:
   cassette_tape:
     zh: [ "蜂鸟" ]
     en: [ "cassette tape" ]
+  computer_keyboard:
+    zh: [ "蜂鸟" ]
+    en: [ "computer keyboard" ]
