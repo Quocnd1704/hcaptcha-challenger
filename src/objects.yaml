@@ -630,3 +630,6 @@ label_alias:
   dart_board:
     zh: [ "蜂鸟" ]
     en: [ "dart board" ]
+  casino_tokens:
+    zh: [ "蜂鸟" ]
+    en: [ "casino tokens" ]
