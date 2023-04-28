@@ -633,3 +633,6 @@ label_alias:
   casino_tokens:
     zh: [ "蜂鸟" ]
     en: [ "casino tokens" ]
+  cassette_tape:
+    zh: [ "蜂鸟" ]
+    en: [ "cassette tape" ]
