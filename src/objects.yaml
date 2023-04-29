@@ -642,3 +642,6 @@ label_alias:
   drum:
     zh: [ "蜂鸟" ]
     en: [ "drum" ]    
+  bee_flying_near_a_flower:
+    zh: [ "蜂鸟" ]
+    en: [ "bee flying near a flower" ]
