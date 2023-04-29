@@ -639,3 +639,9 @@ label_alias:
   computer_keyboard:
     zh: [ "蜂鸟" ]
     en: [ "computer keyboard" ]
+  trumpet:
+    zh: [ "蜂鸟" ]
+    en: [ "trumpet" ]
+  drum:
+    zh: [ "蜂鸟" ]
+    en: [ "drum" ]    
