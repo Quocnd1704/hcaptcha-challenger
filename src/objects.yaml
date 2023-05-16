@@ -642,3 +642,6 @@ label_alias:
   drum:
     zh: [ "蜂鸟" ]
     en: [ "drum" ]
+  bicycle:
+    zh: [ "自行车" ]
+    en: [ "bicycle" ]
