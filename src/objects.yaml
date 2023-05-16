@@ -645,3 +645,6 @@ label_alias:
   bicycle:
     zh: [ "自行车" ]
     en: [ "bicycle" ]
+  microwave:
+    zh: [ "微波炉", "微波" ]
+    en: [ "microwave" ]
